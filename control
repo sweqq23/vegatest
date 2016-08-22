@@ -1,0 +1,6 @@
+Package: demin-test
+Version: 1
+Section: libs
+Architecture: i386
+Maintainer: Demin <mail@demin.co>
+Description: test for work
